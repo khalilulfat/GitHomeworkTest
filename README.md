@@ -38,9 +38,3 @@ Your PR should look like this: https://github.com/CodeYourFuture/GitHomeworkTest
 ## Asking for Help
 
 If you've had problems with any of the steps above, ask for help on Slack - another trainee or a volunteer will be able to help you!
-
-When you ask for help you should always say what exactly isn't working
-
-**Do not write:** "Git doesn't work. Can someone help me?"
-
-**Do write:** "I've tried to push my file using git but it's giving me this error XYZ. I've tried to search Google for the answer but I can't find anything. Can somebody help me?"
